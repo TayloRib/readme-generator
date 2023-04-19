@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-
 inquirer
   .prompt([
     {
@@ -26,10 +25,16 @@ inquirer
     },
     {
       type: 'list',
-      message: 'Select a License for your Prokect:',
+      message: 'Select a License for your Project:',
       name: 'license',
-      choices: ["GPL_v2", "LGPL_v3", "EPL_1.0", "MLP_2.0", "MIT"]
+      choices: ["GNU General Public License v2.0", "GNU Lesser General Public License v3.0", "Eclipse Public License 1.0", "Mozilla Public License 2.0", "MIT"]
     },
+    {
+        type: 'list',
+        message: 'Select a License Badge (this will appear under the title) for your Project:',
+        name: 'badge',
+        choices: ["GPL_v2", "LGPL_v3", "EPL_1.0", "MLP_2.0", "MIT"]
+      },
     {
         type: 'input',
         message: 'Include any contributors:',
@@ -58,7 +63,7 @@ inquirer
     
 `# ${response.title}
 
-[![License](https://img.shields.io/badge/License-${response.license}-blue.svg)]
+[![License](https://img.shields.io/badge/License-${response.badge}-blue.svg)]
 
 ## Description
 
