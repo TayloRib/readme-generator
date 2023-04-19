@@ -63,7 +63,7 @@ inquirer
     
 `# ${response.title}
 
-[![License](https://img.shields.io/badge/License-${response.badge}-blue.svg)]
+![License](https://img.shields.io/badge/License-${response.badge}-blue.svg)
 
 ## Description
 

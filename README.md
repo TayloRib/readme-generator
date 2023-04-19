@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-[![License](https://img.shields.io/badge/License-EPL_1.0-blue.svg)]
+![License](https://img.shields.io/badge/License-EPL_1.0-blue.svg)
 
 ## Description
 
@@ -31,7 +31,7 @@ This project is licensed under the terms of the Eclipse Public License 1.0 licen
 
 ## Tests
 
-This is a video recording 
+https://watch.screencastify.com/v/MPswZ8ZRvQGfW7YTgnhy
 
 ## Questions 
 
