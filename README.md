@@ -1,8 +1,10 @@
-# HOW TO COOK POTATO
+# POTATO
+
+[![License](https://img.shields.io/badge/License-MLP_2.0-blue.svg)]
 
 ## Description
 
-I teach you how to cook a potato
+HOW TO COOK POTATO
 
 ## Table of Contents
 
@@ -13,27 +15,27 @@ I teach you how to cook a potato
 
 ## Installation
 
-you need a pot with boiling water
+BAKE IT FRY IT OR SALT IT
 
 ## Usage
 
-bake it, fry it, salt it
+BAKE POTATO FOOD
 
 ## Contributors
 
-my oven
+MY OVEN
 
 ## License
 
-MIT
+This project is licensed under the terms of the MLP_2.0 license.
 
 ## Tests
 
-what is the three digit number used to determine the circumference of a circle?
+WHAT IS THE THREE DIGIT REPRESENTATION FOR PIE?
 
 ## Questions 
 
-Find more projects like this at: "https://github.com/taylorib".
+Find more projects like this at: https://github.com/TAYLORIB
 
-Send any and all questions to: "ilikepotatoes@fries.com"
+Send any and all questions to: ilikepotatoes@frenchfries.com
     

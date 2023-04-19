@@ -1,6 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
+
 inquirer
   .prompt([
     {
@@ -27,7 +28,7 @@ inquirer
       type: 'list',
       message: 'Select a License for your Prokect:',
       name: 'license',
-      choices: ["GNU General Public License family", "GNU Lesser General Public License family", "Eclipse Public License 1.0", "Mozilla Public License 2.0", "MIT"]
+      choices: ["GPL_v2", "LGPL_v3", "EPL_1.0", "MLP_2.0", "MIT"]
     },
     {
         type: 'input',
@@ -57,6 +58,8 @@ inquirer
     
 `# ${response.title}
 
+[![License](https://img.shields.io/badge/License-${response.license}-blue.svg)]
+
 ## Description
 
 ${response.description}
@@ -82,7 +85,7 @@ ${response.credits}
 
 ## License
 
-${response.license}
+This project is licensed under the terms of the ${response.license} license.
 
 ## Tests
 
@@ -90,9 +93,9 @@ ${response.tests}
 
 ## Questions 
 
-Find more projects like this at: "https://github.com/${response.questions}".
+Find more projects like this at: https://github.com/${response.questions}
 
-Send any and all questions to: "${response.email}"
+Send any and all questions to: ${response.email}
     
 `,    
     (err) => {
