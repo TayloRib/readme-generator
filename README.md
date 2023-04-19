@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-![License](https://img.shields.io/badge/License-EPL_1.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
@@ -27,7 +27,7 @@ NMP Inquirer and GitHub shield.io
 
 ## License
 
-This project is licensed under the terms of the Eclipse Public License 1.0 license.
+This project is licensed under the terms of the MIT license.
 
 ## Tests
 
