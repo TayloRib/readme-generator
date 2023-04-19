@@ -12,6 +12,7 @@ A JS file that generates a professional README for any project
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Questions](#questions)
 
 ## Installation
 
@@ -21,7 +22,7 @@ None
 
 User can utilize the node terminal to answer a series of questions that will fill out a README.md file
 
-## Contributors
+## Credits
 
 NMP Inquirer and GitHub shield.io
 
