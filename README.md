@@ -1,6 +1,6 @@
 # POTATO
 
-[![License](https://img.shields.io/badge/License-MLP_2.0-blue.svg)]
+![License](https://img.shields.io/badge/License-MLP_2.0-blue.svg)
 
 ## Description
 
