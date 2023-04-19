@@ -75,6 +75,7 @@ ${response.description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Questions](#questions)
 
 ## Installation
 
@@ -84,7 +85,7 @@ ${response.installation}
 
 ${response.usage}
 
-## Contributors
+## Credits
 
 ${response.credits}
 
