@@ -38,5 +38,4 @@ This project is licensed under the terms of the MIT license.
 
 Find more projects like this at: https://github.com/taylorib
 
-Send any and all questions to: emailme@email.com
     
